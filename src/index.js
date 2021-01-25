@@ -1,3 +1,3 @@
-import hello from './hello'
+import Storage from './Storage'
 
-console.log(hello())
+export default Storage
